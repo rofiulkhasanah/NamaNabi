@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">25 Nabi</string>
+    <string name="prophets_name">Nama Nabi</string>
+    <string name="detail">Detail</string>
+    <string name="menu_awal">Menu Awal</string>
+    <string name="about">About</string>
+    <string name="dev_name">Rofi\'ul Khasanah</string>
+    <string name="email_dev">rofiulkhasanah01@gmail.com</string>
+</resources>
